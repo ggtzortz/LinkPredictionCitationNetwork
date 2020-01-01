@@ -1,5 +1,6 @@
 # LinkPredictionCitationNetwork
 Used Spark with Scala.  Spark libraries : GraphX, Spark.ML
+ 
 In supervised approach, the features used for the training were according to publication Link prediction in citation networks, Naoki Shibata andYuya Kajikawa, Ichiro Sakata .
 In unsupervised approach  
 
