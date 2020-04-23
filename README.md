@@ -16,7 +16,7 @@ Using the graph constructed according to training data, some topological feature
 In addition, neighbours information are used to compute the link based jaccard coefficient. In-degree respresents the number "to" cited. Clustering was performed to see if two nodes belong to the same cluster.<br />
 Finally, the features to  classifier  are : <br/> 
 <br />
-1) Difference in publication years<br/>
+1)Difference in publication years<br/>
 2)Number of common Authors<br/>
 3)Self citation (if papers have at least one common author)<br/>
 4)Same journal(if papers have been published to the same journal)<br/>
