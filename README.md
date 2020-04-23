@@ -7,13 +7,12 @@ In unsupervised approach only node informations are used.<br/>
 training_set.txt : A set of 615,512 labeled node pairs (1 if there is an edge between two nodes, otherwise 0).<br /><br />
 testing_set.txt : A set of 32,648 node pairs. The file contains one node per row, as: source node ID, target node ID.<br /> <br />
 node_information.csv : For each paper out of 27,770 contains the following information :<br />
-<br/>
-1) unique ID<br/>
-2) publication year <br/>
-3) title <br/>
-4) authors <br/>
-5) name of journal(not available for all papers) <br/>
-6) abstract <br/>
+1)unique ID<br/>
+2)publication year <br/>
+3)title <br/>
+4)authors <br/>
+5)name of journal(not available for all papers) <br/>
+6)abstract <br/>
 Abstracts are in lowercase.<br /><br />
 Cit-Hepth.txt : The ground truth containing all the edges in our network.<br />
 
